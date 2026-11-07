@@ -1,0 +1,10 @@
+[分割] 红色 mask 保留像素 897 (0.07%)   蓝色 mask 保留像素 35 (0.00%)
+[灯条] 红色候选 2 根，蓝色候选 0 根（面积/长宽比/尺寸/倾角筛选后）
+[配对] 装甲板候选 0 个
+[保存] output/selftest_f150\mask_red.png
+[保存] output/selftest_f150\mask_blue.png
+[保存] output/selftest_f150\bars_candidates.png
+[保存] output/selftest_f150\armor_result.png
+[结果] 未检测到装甲板候选（mask 中可能没有目标，或阈值过严）。
+
+[完成] 共输出 0 个装甲板候选，结果已写入 output/selftest_f150\result.txt

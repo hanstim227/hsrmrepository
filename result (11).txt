@@ -1,0 +1,20 @@
+[分割] 红色 mask 保留像素 1060 (0.08%)   蓝色 mask 保留像素 41 (0.00%)
+[灯条] 红色候选 3 根，蓝色候选 0 根（面积/长宽比/尺寸/倾角筛选后）
+[配对] 装甲板候选 1 个
+[保存] output/selftest_f300\mask_red.png
+[保存] output/selftest_f300\mask_blue.png
+[保存] output/selftest_f300\bars_candidates.png
+[保存] output/selftest_f300\armor_result.png
+[保存] output/selftest_f300\armor_zoom_1.png
+
+装甲板 #1（红色）
+  外接框   : x=540.0 y=696.0 w=85.0 h=39.0
+  中心点   : (582.5, 715.5)
+  角点 0(左上): (540.0, 703.0)
+  角点 1(右上): (625.0, 696.0)
+  角点 2(右下): (625.0, 728.0)
+  角点 3(左下): (540.0, 735.0)
+  配对灯条 : #1 / #2   间距 77.5 px   灯条长 32.0 px   宽高比 2.18
+  是否有效 : 是
+
+[完成] 共输出 1 个装甲板候选，结果已写入 output/selftest_f300\result.txt
